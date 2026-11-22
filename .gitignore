@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore large raw datasets
+*.csv
+!data/sample_transactions.csv
