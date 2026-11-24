@@ -78,7 +78,7 @@ The goal of this project is to build a reproducible data pipeline using **Python
 ![Power BI Rule Engine Analysis](docs/screenshot/05_powerbi_flagged_vs_fraud.png)
 
 ### 3. SQL Window Functions & Analytics Output
-![SQL Window Functions](docs/screenshot/02_sql_window_functions.png)
+![SQL Window Functions](docs/screenshot/02_a_sql_window_functions.png)
 
 ### 4. SQL Analytical Views Output
 ![SQL Views Output](docs/screenshot/03_sql_views_output.png)
